@@ -1,0 +1,23 @@
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.AssemblyReference.cache
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Private.FormMessageBox.resources
+C:\Users\RJ Code Advance\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Form1.resources
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.AssemblyReference.cache
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.Private.FormMessageBox.resources
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.Form1.resources
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+C:\Users\Luan\Downloads\MonowApi-master\MonowApi-master\CustomMessageBox-main\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
